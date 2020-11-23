@@ -1,0 +1,24 @@
+.mx-calculator {
+    width: 600px;
+    background: #17a2b8;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.mx-calculator .operations-block button {
+    height: 80px;
+    width: 80px;
+    margin: 20px;
+}
+
+.mx-calculator .inputs-block .input-block {
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.mx-calculator .inputs-block .input-block label {
+    display: block;
+    font-size: larger;
+}
