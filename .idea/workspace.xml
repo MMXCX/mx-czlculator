@@ -41,7 +41,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,7 +57,7 @@
       <workItem from="1605993060406" duration="219000" />
       <workItem from="1605993286222" duration="238000" />
       <workItem from="1605993530810" duration="1394000" />
-      <workItem from="1605995891876" duration="3686000" />
+      <workItem from="1605995891876" duration="6159000" />
     </task>
     <servers />
   </component>
@@ -65,10 +65,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="661" y="354" width="659" height="413" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1605989625293">
+    <state x="661" y="354" width="659" height="413" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1606156976548">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="661" y="354" width="659" height="413" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605989625293" />
+    <state x="661" y="354" width="659" height="413" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1606156976548" />
     <state x="726" y="333" width="530" height="455" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1605990078765">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -77,10 +77,14 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="721" y="262" width="530" height="605" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1605990076561" />
-    <state x="353" y="101" width="1286" height="912" key="SettingsEditor" timestamp="1605994921171">
+    <state x="353" y="101" width="1286" height="912" key="SettingsEditor" timestamp="1606156959239">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="353" y="101" width="1286" height="912" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1605994921171" />
+    <state x="353" y="101" width="1286" height="912" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1606156959239" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1606156840872">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/72.27.1848.1053@72.27.1848.1053" timestamp="1606156840872" />
     <state x="679" y="450" width="623" height="213" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605982251495">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>

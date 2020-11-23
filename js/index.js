@@ -31,10 +31,6 @@ let operationButtons = [
     buttonDivide
 ];
 
-function addCommonEventListener(i) {
-    operationButtons[i].addEventListener('click', onOperationButtonClick);
-}
-
 for (let i = 0; i < operationButtons.length; i++) {
-    addCommonEventListener(i);
+    operationButtons[i].addEventListener('click', onOperationButtonClick);
 }
